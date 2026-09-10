@@ -2,3 +2,10 @@
 .env
 .env.local
 .env.*.local
+
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
